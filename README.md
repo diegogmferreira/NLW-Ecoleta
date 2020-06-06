@@ -1,4 +1,4 @@
-<h2 align="center"> Project developed at "Next Level Week" by [Rocketseat](http://rocketseat.com.br/)
+<h2 align="center"> 
 <img src="https://repository-images.githubusercontent.com/268559110/713e8000-a403-11ea-8fda-497af69bfc17">
 </h1>
 
@@ -6,7 +6,7 @@
     <img alt="Ecoleta" src="https://user-images.githubusercontent.com/38081852/83580830-6f63e200-a513-11ea-9a27-0a109ec1e4d0.png">
 </h1>
 
-###### Project developed in order to connect people to recycling companies
+###### Project developed at "Next Level Week" by [Rocketseat](http://rocketseat.com.br) developed in order to connect people to recycling companies
 
 ## FEATURES
 Project developed with JavaScript, NodeJs, NPM
