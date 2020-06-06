@@ -1,4 +1,4 @@
-<h2 align="center"> Project developed at "Next Level Week" by **[Rocketseat][http://rocketseat.com.br/]
+<h2 align="center"> Project developed at "Next Level Week" by **[Rocketseat](http://rocketseat.com.br/)
 <img src="https://repository-images.githubusercontent.com/268559110/713e8000-a403-11ea-8fda-497af69bfc17">
 </h1>
 
@@ -15,7 +15,7 @@ Project developed with JavaScript, NodeJs, NPM
 1.  Clone this reposity using: ```https://github.com/diegogmferreira/NLW-Ecoleta.git```
 2.  Install any dependencies needed by using: ```NPM INSTALL```
 3.  Open db.js file and see SQL function db.serialize commented line if you want to create or delete SQL Tables or places already registered
-4.  Run NPM START to start the server and test the project on localhost 
+4.  Run ```NPM START``` to start the server and test the project on localhost 
 
 - - - 
 Feito por [Diego Galvão](http://linkedin.com/in/diegogmferreira)
