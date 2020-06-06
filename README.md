@@ -1,4 +1,4 @@
-<h2 align="center"> Project developed at "Next Level Week" by **[Rocketseat](http://rocketseat.com.br/)
+<h2 align="center"> Project developed at "Next Level Week" by [Rocketseat](http://rocketseat.com.br/)
 <img src="https://repository-images.githubusercontent.com/268559110/713e8000-a403-11ea-8fda-497af69bfc17">
 </h1>
 
